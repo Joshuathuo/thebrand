@@ -57509,7 +57509,7 @@ A.At.prototype={
 X(a){return new A.rc(B.E0,"My Portfolio",A.a5D(B.V,null,null),!1,null)}}
 A.AX.prototype={
 X(a){var s=null
-return new A.te(A.afu(new A.Cr(B.y8,new A.yt(B.by,B.cK,B.oN,B.cn,s,B.KS,s,0,A.d([B.wO,B.G_,B.K0,B.JY,B.hJ,B.JZ,B.hJ,A.XP("Projects",A.bb(a).ok.f),B.un,this.yo("Attendance System","Built at NACADA"),this.yo("Smart Irrigation","University project"),this.yo("Web Development Training","Nyeri North Technical"),B.hJ,A.XP("Contact",A.bb(a).ok.f),B.un,B.K_,B.JX,B.K1],t.nA),s),s),s,s),s)},
+return new A.te(A.afu(new A.Cr(B.y8,new A.yt(B.by,B.cK,B.oN,B.cn,s,B.KS,s,0,A.d([B.wO,B.G_,B.K0,B.JZ,B.hJ,B.JY,B.hJ,A.XP("Projects",A.bb(a).ok.f),B.un,this.yo("Attendance System","Built at NACADA"),this.yo("Smart Irrigation","University project"),this.yo("Web Development Training","Nyeri North Technical"),B.hJ,A.XP("Contact",A.bb(a).ok.f),B.un,B.K_,B.JX,B.K1],t.nA),s),s),s,s),s)},
 yo(a,b){return new A.y5(B.y6,new A.A9(A.XP(a,B.uA),A.XP(b,null),null),null)}}
 A.kX.prototype={
 bh(a){var s=a.a,r=this.a,q=s[8]
@@ -61904,8 +61904,8 @@ B.Jb=new A.m(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.GS=new A.m(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.JW=new A.d2(B.Ib,B.Hq,B.Ic,B.IC,B.H7,B.He,B.HG,B.Iu,B.HQ,B.J0,B.GJ,B.GZ,B.IX,B.Jb,B.GS)
 B.JX=new A.h6("\ud83d\udcf1 0759766308",null,null,null,null)
-B.JY=new A.h6("Software Developer | ICT Specialist",null,null,null,null)
-B.JZ=new A.h6("I am a passionate developer with skills in Flutter, Python, Networking, and Cybersecurity. I enjoy building solutions that solve real-world problems.",null,null,B.ep,null)
+B.JY=new A.h6("I am a passionate developer with skills in Flutter, Python, Networking, and Cybersecurity. I enjoy building solutions that solve real-world problems.",null,null,B.ep,null)
+B.JZ=new A.h6("Software Developer | ICT Specialist | Tours and Travels",null,null,null,null)
 B.K_=new A.h6("\ud83d\udce7 joshuawainaina31@gmail.com",null,null,null,null)
 B.Js=new A.m(!0,null,null,null,null,null,28,B.fJ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.K0=new A.h6("Joshua Wainaina Thuo",null,B.Js,null,null)
