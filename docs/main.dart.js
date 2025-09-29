@@ -57660,7 +57660,7 @@ A.Az.prototype={
 X(a){return new A.ri(B.Ef,"My Portfolio",A.a60(B.V,null,null),!1,null)}}
 A.B2.prototype={
 X(a){var s=null,r=t.nA
-return new A.tj(A.afW(new A.Cz(B.yh,new A.yy(B.bz,B.cK,B.h7,B.bD,s,B.uW,s,0,A.d([B.wX,B.Gh,B.Kl,B.Kj,B.hN,B.Kh,B.hN,A.Y7("Projects",A.bb(a).ok.f),B.d0,this.yr("Attendance System","Built at NACADA"),this.yr("Smart Irrigation","University project"),this.yr("Web Development Training","Nyeri North Technical"),B.hN,A.Y7("Contact",A.bb(a).ok.f),B.d0,A.qG(s,B.Ki,B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Uk(),s,s,s),B.d0,A.qG(s,B.Kg,B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Ul(),s,s,s),B.d0,new A.BT(B.d8,B.oS,B.h7,B.bD,s,B.uW,s,0,A.d([A.qG(s,B.Kd,B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Um(),s,s,s),B.Kf,A.qG(s,B.Ke,B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Un(),s,s,s)],r),s),B.d0,B.Kk],r),s),s),s,s),s)},
+return new A.tj(A.afW(new A.Cz(B.yh,new A.yy(B.bz,B.cK,B.h7,B.bD,s,B.uW,s,0,A.d([B.wX,B.Gh,B.Kk,B.Kh,B.hN,B.Kg,B.hN,A.Y7("Projects",A.bb(a).ok.f),B.d0,this.yr("Attendance System","Built at NACADA"),this.yr("Smart Irrigation","University project"),this.yr("Web Development Training","Nyeri North Technical"),B.hN,A.Y7("Contact",A.bb(a).ok.f),B.d0,A.qG(s,B.Kd,B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Uk(),s,s,s),B.d0,A.qG(s,B.Kl,B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Ul(),s,s,s),B.d0,new A.BT(B.d8,B.oS,B.h7,B.bD,s,B.uW,s,0,A.d([A.qG(s,B.Ke,B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Um(),s,s,s),B.Kf,A.qG(s,B.Kj,B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.Un(),s,s,s)],r),s),B.d0,B.Ki],r),s),s),s,s),s)},
 yr(a,b){return new A.ya(B.yf,new A.Af(A.Y7(a,B.uJ),A.Y7(b,null),null),null)}}
 A.Uk.prototype={
 $0(){return A.oQ("mailto:joshuawainaina31@gmail.com")},
@@ -62139,16 +62139,16 @@ B.Js=new A.m(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.H8=new A.m(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Kc=new A.d4(B.Is,B.HH,B.It,B.IT,B.Ho,B.Hv,B.HX,B.IL,B.I6,B.Jh,B.H_,B.Hf,B.Jd,B.Js,B.H8)
 B.et=new A.m(!0,B.cL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.uC,null,null,null,null,null,null,null,null)
-B.Kd=new A.eh("\ud83d\udcbc LinkedIn",null,B.et,null,null)
-B.Ke=new A.eh("\ud83d\udcbb GitHub",null,B.et,null,null)
+B.Kd=new A.eh("joshuawainaina31@gmail.com",null,B.et,null,null)
+B.Ke=new A.eh(" LinkedIn",null,B.et,null,null)
 B.Kf=new A.eh("  |  ",null,null,null,null)
-B.Kg=new A.eh("\ud83d\udcf1 0759766308",null,B.et,null,null)
-B.Kh=new A.eh("I am a passionate developer with skills in Flutter, Python, Networking, and Cybersecurity. I enjoy building solutions that solve real-world problems.",null,null,B.er,null)
-B.Ki=new A.eh("\ud83d\udce7 joshuawainaina31@gmail.com",null,B.et,null,null)
-B.Kj=new A.eh("Software Developer | ICT Specialist | Tours and Travels",null,null,null,null)
-B.Kk=new A.eh("And Forward we move",null,null,null,null)
+B.Kg=new A.eh("I am a passionate developer with skills in Flutter, Python, Networking, and Cybersecurity. I enjoy building solutions that solve real-world problems.",null,null,B.er,null)
+B.Kh=new A.eh("Software Developer | ICT Specialist | Tours and Travels",null,null,null,null)
+B.Ki=new A.eh("And Forward we move",null,null,null,null)
+B.Kj=new A.eh("GitHub",null,B.et,null,null)
 B.JJ=new A.m(!0,null,null,null,null,null,28,B.fL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Kl=new A.eh("Joshua Wainaina Thuo",null,B.JJ,null,null)
+B.Kk=new A.eh("Joshua Wainaina Thuo",null,B.JJ,null,null)
+B.Kl=new A.eh(" 0759766308",null,B.et,null,null)
 B.My=new A.YD(0,"system")
 B.Km=new A.ue(null)
 B.hU=new A.D2(0,"clamp")
