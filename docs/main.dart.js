@@ -57669,7 +57669,7 @@ A.Ul.prototype={
 $0(){return A.oQ("tel:+254759766308")},
 $S:0}
 A.Um.prototype={
-$0(){return A.oQ("www.linkedin.com/in/joshua-wainaina-28a369223")},
+$0(){return A.oQ("https://www.linkedin.com/in/joshua-wainaina-28a369223/")},
 $S:0}
 A.Un.prototype={
 $0(){return A.oQ("https://github.com/joshuathuo")},
