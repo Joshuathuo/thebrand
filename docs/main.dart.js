@@ -60655,8 +60655,8 @@ A.tz.prototype={
 ak(){var s=null,r=t.C
 return new A.I9(A.Xy(),new A.bo(s,r),new A.bo(s,r),new A.bo(s,r),new A.bo(s,r))}}
 A.I9.prototype={
-R(a){var s=this,r=null,q=t.af,p=A.d([A.ZR(B.Lp,new A.a3L(s)),A.ZR(B.Lm,new A.a3M(s)),A.ZR(B.Li,new A.a3N(s)),A.ZR(B.Lo,new A.a3O(s))],q)
-return new A.u2(new A.pQ(B.Ll,p,!0,new A.Ia(r,r,1/0,56),r),new A.DJ(s.d,A.kE(A.d([A.n_(r,A.kE(B.BK,B.ah,B.ao),B.H,r,r,r,r,s.e,r,B.dX,r,r,r),A.n_(r,A.kE(A.d([A.kE(A.d([A.uP("About Me",B.ir),B.fH,B.eN],q),B.ah,B.ao),B.Lk],q),B.ah,B.ao),B.H,r,r,r,r,s.f,r,B.dX,r,r,r),A.n_(r,A.kE(A.d([A.kE(A.d([A.uP("Projects",B.ir),B.fH,B.eN],q),B.ah,B.ao),A.a9o("Attendance System","Built at NACADA"),A.a9o("Smart Irrigation","University project"),A.a9o("Web Development Training","Nyeri North Technical")],q),B.ah,B.ao),B.H,r,r,r,r,s.r,r,B.dX,r,r,r),A.n_(r,A.kE(A.d([A.kE(A.d([A.uP("Contact Me",B.ir),B.fH,B.eN],q),B.ah,B.ao),A.a3P("\ud83d\udce7 Email","mailto:joshuawainaina31@gmail.com"),B.uW,A.a3P("\ud83d\udcf1 Phone","tel:+254759766308"),B.uW,A.ade(A.d([A.a3P("\ud83d\udcbc LinkedIn","https://www.linkedin.com/in/joshua-wainaina-28a369223/"),B.He,A.a3P("\ud83d\udcbb GitHub","https://github.com/joshuathuo")],q),B.ah,B.ph,B.hE),B.Hf,B.Ln],q),B.ah,B.ao),B.H,r,r,r,r,s.w,r,B.dX,r,r,r)],q),B.ah,B.ao),r),r)}}
+R(a){var s=this,r=null,q=t.af,p=A.d([A.ZR(B.Lp,new A.a3L(s)),A.ZR(B.Lm,new A.a3M(s)),A.ZR(B.Li,new A.a3N(s)),A.ZR(B.Ln,new A.a3O(s))],q)
+return new A.u2(new A.pQ(B.Ll,p,!0,new A.Ia(r,r,1/0,56),r),new A.DJ(s.d,A.kE(A.d([A.n_(r,A.kE(B.BK,B.ah,B.ao),B.H,r,r,r,r,s.e,r,B.dX,r,r,r),A.n_(r,A.kE(A.d([A.kE(A.d([A.uP("About Me",B.ir),B.fH,B.eN],q),B.ah,B.ao),B.Lk],q),B.ah,B.ao),B.H,r,r,r,r,s.f,r,B.dX,r,r,r),A.n_(r,A.kE(A.d([A.kE(A.d([A.uP("Projects",B.ir),B.fH,B.eN],q),B.ah,B.ao),A.a9o("Attendance System","Built at NACADA"),A.a9o("Smart Irrigation","University project"),A.a9o("Web Development Training","Nyeri North Technical")],q),B.ah,B.ao),B.H,r,r,r,r,s.r,r,B.dX,r,r,r),A.n_(r,A.kE(A.d([A.kE(A.d([A.uP("Contact Me",B.ir),B.fH,B.eN],q),B.ah,B.ao),A.a3P("Email","mailto:joshuawainaina31@gmail.com"),B.uW,A.a3P("Phone","tel:+254759766308"),B.uW,A.ade(A.d([A.a3P("LinkedIn","https://www.linkedin.com/in/joshua-wainaina-28a369223/"),B.He,A.a3P("GitHub","https://github.com/joshuathuo")],q),B.ah,B.ph,B.hE),B.Hf,B.Lo],q),B.ah,B.ao),B.H,r,r,r,r,s.w,r,B.dX,r,r,r)],q),B.ah,B.ao),r),r)}}
 A.a3L.prototype={
 $0(){var s=$.a5.a7$.x.i(0,this.a.e)
 s.toString
@@ -65247,8 +65247,8 @@ B.Jz=new A.l(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,n
 B.Lk=new A.e7("I am a passionate developer with skills in Flutter, Python, Networking, and Cybersecurity. I enjoy building solutions that solve real-world problems.",null,B.Jz,B.eO,null)
 B.Ll=new A.e7("Joshua Thuo",null,null,null,null)
 B.Lm=new A.e7("About",null,B.eQ,null,null)
-B.Ln=new A.e7("\ud83d\ude80 And forward we move!",null,null,null,null)
-B.Lo=new A.e7("Contact",null,B.eQ,null,null)
+B.Ln=new A.e7("Contact",null,B.eQ,null,null)
+B.Lo=new A.e7("And forward we move!",null,null,null,null)
 B.Lp=new A.e7("Home",null,B.eQ,null,null)
 B.NE=new A.a_l(0,"system")
 B.Lq=new A.v3(null)
